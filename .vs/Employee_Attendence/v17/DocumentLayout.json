@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\views\\employee\\employeeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\views\\employee\\employeeview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\data\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Migrations\\20240611095501_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Employee_Attendence\\Migrations\\20240611095501_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|c:\\users\\nohan\\source\\repos\\asp.net core\\employee_attendence\\employee_attendence\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18623D9D-A3E4-4354-9CB6-7CAF89CBDAA3}|Employee_Attendence\\Employee_Attendence.csproj|solutionrelative:employee_attendence\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Employee_Attendence\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:21:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Employee_Attendence\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T11:15:10.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "Employee_Attendence\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T10:54:53.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Employee_Attendence\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:58:34.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Employee_Attendence\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T10:17:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\EmployeeView.cshtml",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Views\\Employee\\EmployeeView.cshtml",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Views\\Employee\\EmployeeView.cshtml",
+              "RelativeToolTip": "Employee_Attendence\\Views\\Employee\\EmployeeView.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T10:01:56.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240611095501_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Migrations\\20240611095501_Initial.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Migrations\\20240611095501_Initial.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Migrations\\20240611095501_Initial.cs",
+              "RelativeToolTip": "Employee_Attendence\\Migrations\\20240611095501_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:55:02.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Program.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Program.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Program.cs",
+              "RelativeToolTip": "Employee_Attendence\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:52:40.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\appsettings.json",
+              "RelativeDocumentMoniker": "Employee_Attendence\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\appsettings.json",
+              "RelativeToolTip": "Employee_Attendence\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T09:51:16.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Employee_Attendence\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAwwFsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:48:56.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Data\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Data\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Data\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee_Attendence\\Data\\EmployeeDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T09:36:31.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee_Attendence\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Nohan\\source\\repos\\ASP.NET CORE\\Employee_Attendence\\Employee_Attendence\\Models\\Employee.cs",
+              "RelativeToolTip": "Employee_Attendence\\Models\\Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:55:11.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
